@@ -1,4 +1,4 @@
-# The Snake Game Using PyGame Library
+# The Snake Game Using PyGame🕹️ Library 
 _Welcome to_ ***"The Snake Game Using PyGame Lib"*** – _a classic Snake game developed in Python using the PyGame library._
 
 ## Introduction
@@ -58,5 +58,5 @@ _This game is open-source and released under the_ [MIT License](https://opensour
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Enjoy playing the Snake Game and aim for the highest score! If you encounter any issues or have suggestions for improvement, feel free to contribute to the project on GitHub😊.
+_Enjoy playing the Snake Game and aim for the highest score! If you encounter any issues or have suggestions for improvement, feel free to contribute to the project on GitHub😊._
 
