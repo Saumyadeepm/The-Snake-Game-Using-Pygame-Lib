@@ -34,6 +34,11 @@ _Welcome to the Snake Game, a classic arcade game implemented in Python using th
  - When you run out of lives, press `Space` to play again.
 
 ## Screenshots
+![Alt text](https://github.com/Saumyadeepm/The-Snake-Game-Using-Pygame-Lib/blob/main/screenshots/Snake_page.png)
+
+<hr>
+
+![Alt text](https://github.com/Saumyadeepm/The-Snake-Game-Using-Pygame-Lib/blob/main/screenshots/S5.png)
 
 ## How to Run
 _To run the game, you need to have Python and the PyGame library installed on your system. You can install PyGame using the following command:_
